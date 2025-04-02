@@ -1,0 +1,10 @@
+# Titanic 
+
+### Table of contents
+1) What's about
+2) Source
+
+### What's about
+
+### Source
+Link to kaggle: https://www.kaggle.com/datasets/yasserh/titanic-dataset
